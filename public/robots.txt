@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /api/
+
+Sitemap: https://scrumfuel-1sgn.vercel.app/sitemap.xml
